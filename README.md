@@ -8,7 +8,7 @@ We geven hieronder een overzicht van de bestanden in deze repository, alsmede de
 De map 'Dataverzameling' bevat een Excel-bestand waarin de gebruikte zoektermen per onderzoeksthema zijn opgenomen. De keuze voor deze zoektermen wordt verder toegelicht in het onderzoeksrapport. Het PDF-bestand 'Queries Twitter API' bevat de verschillende zoekopdrachten die zijn gebruikt om data op te halen bij de academische API van Twitter. We maken hiervoor gebruik van twarc2, een command line tool voor Python. We halen hiermee de data binnen en zetten het om in een CSV-bestand dat verder kan worden opgeschoond in R.
 Voor de dataverzameling van blogs en nieuwssites maken we gebruik van de commerciële data-aggregator OBI4wan. De YouTube-data verzamelen we aan de hand van de YouTube Data Tools van het Digital Methods Initiative (DMI).
 
-## 2. Data samples**
+## 2. Data samples
 Deze map bevat kleine samples van de verschillende datasets. We treffen hier data zoals deze door OBI4wan wordt geleverd (blogs_sample.csv), de 'ruwe' Twitter-dataset van twarc2 (twitter_raw_sample.csv), de opgeschoonde versie van die dataset (twitter_clean_sample.csv) en de YouTube-dataset van het DMI (youtube_sample.csv). Het doel van deze samples is om inzicht te geven in de structuur van de datasets die voor dit onderzoek zijn gebruikt, zodat de R-scripts (zie volgende map) begrijpelijk zijn.
 
 ## 3. R scripts
