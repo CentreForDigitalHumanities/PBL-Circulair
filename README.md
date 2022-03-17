@@ -14,9 +14,12 @@ In de map 'R scripts' vinden we de scripts die zijn gebruikt in verschillende st
 
 ## [4. Gephi](https://github.com/CentreForDigitalHumanities/PBL-Circulair/tree/main/4.%20Gephi)
 Tot slot de map 'Gephi'. Hier treffen we een bestand (ce_subset.gephi) dat kan worden geopend in het open-source netwerkanalyseprogramma Gephi. Het bestand bevat netwerkdata van het Twitter-debat dat interactief kan worden geëxploreerd. Online zijn uitstekende Gephi-tutorials te vinden om snel wegwijs te worden in het programma. Ter illustratie is in deze map een van de resulterende netwerkvisualisaties die is gecreëerd op basis van dit netwerk toegevoegd.
-Gebruikte software
+
+## Gebruikte software
 Voor onze analyses maken we gebruik van verschillende programma's. De belangrijkste zijn:
+
 a. RStudio voor het opschonen en verwerken van de datasets. De gebruikte libraries zijn vindbaar in de bijgevoegde scripts.
 b. Gephi voor het analyseren en verkennen van netwerkdata. We maken hierbij gebruik van de Fieldnotes plugin voor het documenteren van ons proces.
 c. Tableau voor verdere analyse van de data, bijvoorbeeld frequentieanalyses en tijdlijnvisualisaties, alsmede intuïtieve exploratie van de datasets.
+
 Met de resultaten van de verschillende tools verrijken we continu de oorspronkelijke datasets. De uitgebreide datasets gebruiken we vervolgens om kwalitatieve analyses uit te voeren. Willen we bijvoorbeeld weten waardoor in een bepaalde tijdperiode veel activiteit in het debat plaatsvindt, dan kunnen we deze data in Tableau selecteren en zien we hierbij direct de resultaten van onze netwerkanalyses, geautomatiseerde tekstanalyses etc. Het verkennen van online debatten is vrijwel altijd een exploratief proces, waarin we ons laten leiden door opvallende patronen of uitschieters in de data.
