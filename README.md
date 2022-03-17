@@ -18,10 +18,10 @@ Tot slot de map 'Gephi'. Hier treffen we een bestand (ce_subset.gephi) dat kan w
 ## Gebruikte software
 Voor onze analyses maken we gebruik van verschillende programma's. De belangrijkste zijn:
 
-a. RStudio voor het opschonen en verwerken van de datasets. De gebruikte libraries zijn vindbaar in de bijgevoegde scripts.
+a. [RStudio](https://www.rstudio.com/) voor het opschonen en verwerken van de datasets. De gebruikte libraries zijn vindbaar in de bijgevoegde scripts.
 
-b. Gephi voor het analyseren en verkennen van netwerkdata. We maken hierbij gebruik van de Fieldnotes plugin voor het documenteren van ons proces.
+b. [Gephi](https://gephi.org/) voor het analyseren en verkennen van netwerkdata. We maken hierbij gebruik van de [Fieldnotes plugin](https://github.com/UUDigitalHumanitieslab/gephi-plugins/) voor het documenteren van ons proces.
 
-c. Tableau voor verdere analyse van de data, bijvoorbeeld frequentieanalyses en tijdlijnvisualisaties, alsmede intuïtieve exploratie van de datasets.
+c. [Tableau](https://www.tableau.com/nl-nl) voor verdere analyse van de data, bijvoorbeeld frequentieanalyses en tijdlijnvisualisaties, alsmede intuïtieve exploratie van de datasets.
 
 Met de resultaten van de verschillende tools verrijken we continu de oorspronkelijke datasets. De uitgebreide datasets gebruiken we vervolgens om kwalitatieve analyses uit te voeren. Willen we bijvoorbeeld weten waardoor in een bepaalde tijdperiode veel activiteit in het debat plaatsvindt, dan kunnen we deze data in Tableau selecteren en zien we hierbij direct de resultaten van onze netwerkanalyses, geautomatiseerde tekstanalyses etc. Het verkennen van online debatten is vrijwel altijd een exploratief proces, waarin we ons laten leiden door opvallende patronen of uitschieters in de data.
